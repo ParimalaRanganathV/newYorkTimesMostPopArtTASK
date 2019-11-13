@@ -11,7 +11,7 @@ Incase of build fail due to dependency ReachabilitySwift, install ReachabilitySw
 Press run icon in Xcode or command + R to run the project on Simulator
 
 
-To perform the testing 
+# To perform the testing 
 
 Mannually the test cases can be tested for pass or fail scenario
 
