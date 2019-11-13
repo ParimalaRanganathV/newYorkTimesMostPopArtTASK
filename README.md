@@ -1,7 +1,7 @@
 # newYorkTimesMostPopArtTASK
 task for technical round
 
-# To execute the project :
+# To execute the project 
 
 Installation by cloning the repository
 
