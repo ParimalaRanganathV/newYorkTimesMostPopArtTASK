@@ -3,7 +3,7 @@ task for technical round
 
 # To execute the project 
 
-Installation by cloning the repository
+Installation by cloning the repository by directly choosing to "Open in Xcode"
 
 Go to directory
 use command + B or Product -> Build to build the project
