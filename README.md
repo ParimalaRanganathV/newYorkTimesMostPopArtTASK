@@ -24,6 +24,6 @@ Enable coverage Data under test schema section:
 
 Select the Test Icon by pressing and holding Xcode Run Icon OR press Command+Control+U
 
-In the Project Navigator under Test Navigator tab, check test status and gather Coverage
+In the Project Navigator under Test Navigator tab under Options, check UI Testing and Code Coverage
 
 To collect code coverage data, run the test suite one more time. To see the code coverage report, open the Report Navigator on the left, select the report for the last test run, and open the Coverage tab at the top.
